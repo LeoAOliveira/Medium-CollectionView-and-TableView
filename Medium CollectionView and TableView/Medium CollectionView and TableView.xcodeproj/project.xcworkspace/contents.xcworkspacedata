@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Medium: CollectionView and TableView.xcodeproj">
+      location = "self:Medium CollectionView and TableView.xcodeproj">
    </FileRef>
 </Workspace>
